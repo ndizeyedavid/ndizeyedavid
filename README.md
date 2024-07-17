@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndizeyedavid&label=Profile%20views&color=0e75b6&style=flat" alt="ndizeyedavid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ndizeyedavid" alt="ndizeyedavid" /></a> </p>
+<p>[![wakatime](https://wakatime.com/badge/user/e2faa426-828e-4cfc-983b-8ef942ad7c36.svg)](https://wakatime.com/@e2faa426-828e-4cfc-983b-8ef942ad7c36)</p>
 
 - 🔭 I’m currently working on [Police Community Guard Planner](http://cgp.rf.gd)
 
@@ -35,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndizeyedavid&show_icons=true&locale=en" alt="ndizeyedavid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndizeyedavid&" alt="ndizeyedavid" /></p>
-<p>[![wakatime](https://wakatime.com/badge/user/e2faa426-828e-4cfc-983b-8ef942ad7c36.svg)](https://wakatime.com/@e2faa426-828e-4cfc-983b-8ef942ad7c36)</p>
