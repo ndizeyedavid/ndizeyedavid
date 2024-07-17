@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ndizeyedavid&show_icons=true&locale=en" alt="ndizeyedavid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndizeyedavid&" alt="ndizeyedavid" /></p>
-[![wakatime](https://wakatime.com/badge/user/e2faa426-828e-4cfc-983b-8ef942ad7c36.svg)](https://wakatime.com/@e2faa426-828e-4cfc-983b-8ef942ad7c36)
+<p>[![wakatime](https://wakatime.com/badge/user/e2faa426-828e-4cfc-983b-8ef942ad7c36.svg)](https://wakatime.com/@e2faa426-828e-4cfc-983b-8ef942ad7c36)</p>
