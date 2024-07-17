@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React js, Next js, python, typescript**
 
-- 👯 I’m looking to collaborate on [Zero](http://landing-zero.rf.gd/)
+- 👯 I collaborated on [Zero](http://landing-zero.rf.gd/)
 
 - 👨‍💻 All of my projects are available at [ndizeye.rf.gd](ndizeye.rf.gd)
 
