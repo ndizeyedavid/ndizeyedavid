@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ndizeye David</h1>
 <h3 align="center">A passionate frontend developer and backend developer from Rwanda, with an urge to enroll into deep neural networks and artificial intelligence</h3>
 
-- 🔭 I’m currently working on an IoT project [Poultry Farm Monitoring System](<[https://github.com/ndizeye](https://github.com/ndizeyedavid/Poultry-Farm-Monitoring-System)>)
+- 🔭 I’m currently working on an IoT project [**Poultry Farm Monitoring System**](<[https://github.com/ndizeye](https://github.com/ndizeyedavid/Poultry-Farm-Monitoring-System)>)
 - 👯 I collaborated on [Zero](http://landing-zero.rf.gd/)
 
 - 💬 Ask me about **React, Node Js, Tailwind, CSS, Bootstrap, PHP, SQL, Mongo DB**
