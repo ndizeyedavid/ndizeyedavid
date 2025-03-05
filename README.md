@@ -1,4 +1,5 @@
 <h1 align="center">Always coding</h1>
+<div align="center">
 <pre>
                        __    _
                     _wr""        "-q__
@@ -24,7 +25,7 @@
       "*w_________am#####P"   ~9#####mw_________w*"
           ""9@#####@M""           ""P@#####@M""
 </pre>
-
+</div>
 
 #### Profile visits: 
 
