@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Backend+Developer;Hardcore+Gamer;Next.Js+Lover;Always+Learning+New+Tech😉)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Born+to+code😋;React+Native+Geek;Hardcore+Gamer;Next.Js+Lover;Always+Learning+New+Tech😉)
 
 </div>
 
@@ -34,5 +34,5 @@ const mySkills = {
 
 <div align="center">
 
-**"I code for impact, but simply I'm just in love with codes😍"**
+**"I'm just in love with codes😍"**
 </div>
