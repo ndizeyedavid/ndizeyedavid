@@ -1,4 +1,10 @@
-<div align="center">\n\n<img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />\n\n</div>\n\n<img src="https://holopin.me/ndizeyedavid" alt="An image of @ndizeyedavid's Holopin badges, which is a link to view their full Holopin profile" />
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+
+</div>
+
+<img src="https://holopin.me/ndizeyedavid" alt="An image of @ndizeyedavid's Holopin badges, which is a link to view their full Holopin profile" />
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=If+you+thought+of+it...I+can+create+it🤩;Born+to+code😋;React+Native+Geek;Hardcore+Gamer;Next.Js+Lover;Always+Learning+New+Tech😉)
