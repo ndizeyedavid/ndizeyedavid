@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
-
-</div>
-
 <img src="https://holopin.me/ndizeyedavid" alt="An image of @ndizeyedavid's Holopin badges, which is a link to view their full Holopin profile" />
 <div align="center">
   
@@ -39,4 +33,10 @@ const mySkills = {
 <div align="center">
 
 **"I'm just in love with codes😍"**
+</div>
+
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+
 </div>
